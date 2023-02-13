@@ -1,0 +1,54 @@
+{
+  "order": [
+    "t6.jpg",
+    "t5.jpg",
+    "t4.jpg",
+    "t3.jpg",
+    "t2.jpg",
+    "t1.jpg"
+  ],
+  "dict": {
+    "t6.jpg": {
+      "type": "photo",
+      "width": 1156,
+      "height": 1542,
+      "path": "./photos/Princess/t6.jpg",
+      "min_path": "./photos/Princess/t6.min.jpg"
+    },
+    "t5.jpg": {
+      "type": "photo",
+      "width": 2056,
+      "height": 1542,
+      "path": "./photos/Princess/t5.jpg",
+      "min_path": "./photos/Princess/t5.min.jpg"
+    },
+    "t4.jpg": {
+      "type": "photo",
+      "width": 2056,
+      "height": 1542,
+      "path": "./photos/Princess/t4.jpg",
+      "min_path": "./photos/Princess/t4.min.jpg"
+    },
+    "t3.jpg": {
+      "type": "photo",
+      "width": 1156,
+      "height": 1542,
+      "path": "./photos/Princess/t3.jpg",
+      "min_path": "./photos/Princess/t3.min.jpg"
+    },
+    "t2.jpg": {
+      "type": "photo",
+      "width": 1156,
+      "height": 1542,
+      "path": "./photos/Princess/t2.jpg",
+      "min_path": "./photos/Princess/t2.min.jpg"
+    },
+    "t1.jpg": {
+      "type": "photo",
+      "width": 1156,
+      "height": 1542,
+      "path": "./photos/Princess/t1.jpg",
+      "min_path": "./photos/Princess/t1.min.jpg"
+    }
+  }
+}
