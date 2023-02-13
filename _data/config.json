@@ -16,7 +16,7 @@
       {
         "type": "photo",
         "width": 4032,
-        "height": 1872,
+        "height": 3024,
         "path": "./photos/Princess/t8.jpg",
         "min_path": "./photos/Princess/t8.min.jpg"
       },
@@ -61,6 +61,13 @@
         "height": 1542,
         "path": "./photos/Princess/t2.jpg",
         "min_path": "./photos/Princess/t2.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4000,
+        "height": 3000,
+        "path": "./photos/Princess/t10.jpg",
+        "min_path": "./photos/Princess/t10.min.jpg"
       },
       {
         "type": "photo",

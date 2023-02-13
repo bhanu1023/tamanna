@@ -8,6 +8,7 @@
     "t4.jpg",
     "t3.jpg",
     "t2.jpg",
+    "t10.jpg",
     "t1.jpg"
   ],
   "dict": {
@@ -21,7 +22,7 @@
     "t8.jpg": {
       "type": "photo",
       "width": 4032,
-      "height": 1872,
+      "height": 3024,
       "path": "./photos/Princess/t8.jpg",
       "min_path": "./photos/Princess/t8.min.jpg"
     },
@@ -66,6 +67,13 @@
       "height": 1542,
       "path": "./photos/Princess/t2.jpg",
       "min_path": "./photos/Princess/t2.min.jpg"
+    },
+    "t10.jpg": {
+      "type": "photo",
+      "width": 4000,
+      "height": 3000,
+      "path": "./photos/Princess/t10.jpg",
+      "min_path": "./photos/Princess/t10.min.jpg"
     },
     "t1.jpg": {
       "type": "photo",
