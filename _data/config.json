@@ -8,6 +8,27 @@
     "list": [
       {
         "type": "photo",
+        "width": 3024,
+        "height": 4032,
+        "path": "./photos/Princess/t9.jpg",
+        "min_path": "./photos/Princess/t9.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4032,
+        "height": 1872,
+        "path": "./photos/Princess/t8.jpg",
+        "min_path": "./photos/Princess/t8.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1872,
+        "height": 4032,
+        "path": "./photos/Princess/t7.jpg",
+        "min_path": "./photos/Princess/t7.min.jpg"
+      },
+      {
+        "type": "photo",
         "width": 1156,
         "height": 1542,
         "path": "./photos/Princess/t6.jpg",

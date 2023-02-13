@@ -2,7 +2,7 @@
 
 html {
   background-color: $background;
-  background-image: url('https://raw.githubusercontent.com/bhanu1023/tamanna/gh-pages/cover.jpg');
+  background-image: url($url);
   background-size: cover;
   overflow-x: hidden;
   font-family: 'Lato', 'Helvetica', 'Verdana', sans-serif;
